@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 50px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.8;
+            color: #555;
+        }
+
+        .info {
+            margin-top: 20px;
+        }
+
+        .info strong {
+            color: #222;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>About Me</h1>
+
+        <p>
+            Hello! My name is Chidera Uche Emmanuel. I am a dedicated student with a strong interest in Pharmacy, science, and technology. I enjoy learning new concepts, solving problems,
+            and improving my knowledge through continuous study and research.</br> I'm a 300 level Pharm.D student of Madonna University, Nigeria 
+        </p>
+
+        <div class="info">
+            <p><strong>Name:</strong> Chidera Uche</p>
+            <p><strong>Field of Study:</strong> Pharmacy</p>
+            <p><strong>Location:</strong> Nigeria</p>
+            <p><strong>Interests:</strong> Pharmaceutical Sciences, Organic Chemistry, Football, Research, and Technology</p>
+            <p><strong>Goal:</strong> To become a skilled healthcare professional and contribute positively to society through pharmaceutical care and innovation.</p>
+  <p><strong>Skills</strong> <ul> <li>Reading</li>
+<li>Sports</li>
+<li>Fashion</li>
+ </ul> </p>
+        </div>
+    </div>
+
+</body>
+</html>
